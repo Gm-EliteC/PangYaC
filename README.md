@@ -47,7 +47,6 @@ What is Not Implemented,
 To run the project locally:
 
 1. Clone the repository:
-   ```bash
 <pre> \`\`\`git clone https://github.com/GM-EliteC/PangYaC.git \`\`\` </pre>
 
 ## 🙏 Credits
