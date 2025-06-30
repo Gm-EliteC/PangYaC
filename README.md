@@ -9,7 +9,7 @@ This application is inspired by **XPangya** and integrates the **Acrisio Pangya 
 - 📐 Designed specifically for Pangya players who need accurate and fast shot estimations
 - 🎮 Seamless desktop experience without needing a web browser
   
-👉TO see a Video tutorial go to https://www.youtube.com/watch?v=86KGSaSlN7Y 
+👉To see a Video tutorial go to https://www.youtube.com/watch?v=86KGSaSlN7Y 
 
 ## __What is Working:__
 
