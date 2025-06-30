@@ -8,13 +8,10 @@ This application is inspired by **XPangya** and integrates the **Acrisio Pangya 
 - 🖥️ Higher-resolution, resizable UI for modern displays
 - 📐 Designed specifically for Pangya players who need accurate and fast shot estimations
 - 🎮 Seamless desktop experience without needing a web browser
+  
+👉TO see a Video tutorial go to https://www.youtube.com/watch?v=86KGSaSlN7Y 
 
-##  👉TO see a Video tutorial go to
-https://www.youtube.com/watch?v=86KGSaSlN7Y 
-
-
-
-What is Working:
+## __What is Working:__
 
 -Calculating  
 -Support For Multiple Resolutions (3840x2160, 2560x1440, 2048x1152, 1920x1080, 1600x900) both screen mode and maximized.  
@@ -34,16 +31,14 @@ What is Working:
 -Stay on Top, when taking screenshot, simply click stay on top to capture F11 in the app, not the game. Then un check to view wind angle reading.  
 -All courses have been added under "select course"  
 -Now you can check this and the program will try to find the best caliper and spin within 0.1y (so if is short 0.1 it can still work).  
-  
 -Life Quality updates   
 -Minor bugs with overlay and added few missing slopes  
 
+
+## __What is Not Implemented__
+-Slope Reading
 What Is Not Working Properly?  
 -Some resolutions have issues and add a little curve, so try manual spin or other methods. Again, try 1280x960, 2560x1140 or 4K. 
-
-What is Not Implemented,
--Slope Reading
-
 
 ## 🚀 Getting Started
 
@@ -51,12 +46,12 @@ To run the project locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo.git```
-
+git clone https://github.com/your-username/your-repo.git
+```
 
 ## 🙏 Credits
 
-- **Acrisio's Pangya Calculator** – Core logic and formulas are based on Acrisio's original calculator, a powerful tool for shot accuracy in Pangya.  
+- **Acrisio's Pangya Calculator** – Core logic and formulas (I have slightly modified the original one) are based on Acrisio's original calculator (Java Script), a powerful tool for shot accuracy in Pangya.  
   > https://github.com/Acrisio-Filho/SuperSS-Dev
 
 - **XPangya** – Visual inspiration for the UI/UX design that enhances shot calculation visibility and usability.
