@@ -2,6 +2,7 @@
 
 This application is inspired by **XPangya** and integrates the **Acrisio Pangya Calculator** into a modern **Windows Forms** interface. The goal is to deliver a high-resolution, user-friendly tool for players of the online golf game **Pangya** to easily calculate and optimize their shots.
 
+
 ## 🎯 Features
 
 - ⚙️ Integrates Acrisio's shot calculation logic
@@ -12,6 +13,7 @@ This application is inspired by **XPangya** and integrates the **Acrisio Pangya 
 👉To see a Video tutorial go to https://www.youtube.com/watch?v=86KGSaSlN7Y 
 
 ## __What is Working:__
+
 
 -Calculating  
 -Support For Multiple Resolutions (3840x2160, 2560x1440, 2048x1152, 1920x1080, 1600x900) both screen mode and maximized.  
@@ -46,7 +48,12 @@ To run the project locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Gm-EliteC/OverlayApp.git
+```
+
+If you need to change the LineOverlay clone this repo 
+```bash
+https://github.com/Gm-EliteC/OverlayApp.git
 ```
 
 ## 🙏 Credits
