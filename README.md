@@ -53,7 +53,7 @@ git clone https://github.com/Gm-EliteC/OverlayApp.git
 
 If you need to change the LineOverlay clone this repo 
 ```bash
-https://github.com/Gm-EliteC/OverlayApp.git
+git clone https://github.com/Gm-EliteC/OverlayApp.git
 ```
 
 ## 🙏 Credits
